@@ -322,10 +322,30 @@ body {
   background-color: #69B978;
   background-repeat: no-repeat; }
 
-.master05.has-light-background {
-  color: white; }
-  .master05.has-light-background h1, .master05.has-light-background h2, .master05.has-light-background h3, .master05.has-light-background h4, .master05.has-light-background h5, .master05.has-light-background h6 {
-    color: white; }
-
 .master05 ~ section h1, .master05 ~ section h2, .master05 ~ section h3, .master05 ~ section h4, .master05 ~ section h5, .master05 ~ section h6 {
   color: #69B978; }
+
+.master01 {
+  color: white !important; }
+  .master01 h1, .master01 h2, .master01 h3, .master01 h4, .master01 h5, .master01 h6 {
+    color: white !important; }
+
+.master02 {
+  color: white !important; }
+  .master02 h1, .master02 h2, .master02 h3, .master02 h4, .master02 h5, .master02 h6 {
+    color: white !important; }
+
+.master03 {
+  color: white !important; }
+  .master03 h1, .master03 h2, .master03 h3, .master03 h4, .master03 h5, .master03 h6 {
+    color: white !important; }
+
+.master04 {
+  color: white !important; }
+  .master04 h1, .master04 h2, .master04 h3, .master04 h4, .master04 h5, .master04 h6 {
+    color: white !important; }
+
+.master05 {
+  color: white !important; }
+  .master05 h1, .master05 h2, .master05 h3, .master05 h4, .master05 h5, .master05 h6 {
+    color: white !important; }
