@@ -17,7 +17,7 @@ Install [Node.js](http://nodejs.org/)
 
 Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
 ```sh
-$ npm install -g grunt-cli
+$ sudo npm install -g grunt-cli
 ```
 
 Clone the template repository
