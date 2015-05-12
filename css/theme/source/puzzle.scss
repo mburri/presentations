@@ -427,8 +427,8 @@ body {
 }
 
 .reveal .slide-background.master01 {
-  background: image-url('lib/img/01_corner_bottom_right.svg') bottom right,
-              image-url('lib/img/01_corner_top_left.svg') top left;
+  background: url('../../lib/img/01_corner_bottom_right.svg') bottom right,
+              url('../../lib/img/01_corner_top_left.svg') top left;
   background-color: #1E5A96;
   background-repeat: no-repeat;
 }
@@ -439,8 +439,8 @@ body {
 }
 
 .reveal .slide-background.master02 {
-  background: image-url('lib/img/02_corner_top_right.svg') top right,
-              image-url('lib/img/02_corner_top_left.svg') top left;
+  background: url('../../lib/img/02_corner_top_right.svg') top right,
+              url('../../lib/img/02_corner_top_left.svg') top left;
   background-color: #3B7BBE;
   background-repeat: no-repeat;
 }
@@ -451,8 +451,8 @@ body {
 }
 
 .reveal .slide-background.master03 {
-  background: image-url('lib/img/03_corner_top_right.svg') top right,
-              image-url('lib/img/03_corner_top_left.svg') top left;
+  background: url('../../lib/img/03_corner_top_right.svg') top right,
+              url('../../lib/img/03_corner_top_left.svg') top left;
   background-color: #238BCA;
   background-repeat: no-repeat;
 }
@@ -463,8 +463,8 @@ body {
 }
 
 .reveal .slide-background.master04 {
-  background: image-url('lib/img/04_corner_top_right.svg') top right,
-              image-url('lib/img/04_corner_top_left.svg') top left;
+  background: url('../../lib/img/04_corner_top_right.svg') top right,
+              url('../../lib/img/04_corner_top_left.svg') top left;
   background-color: #2C97A6;
   background-repeat: no-repeat;
 }
@@ -475,8 +475,8 @@ body {
 }
 
 .reveal .slide-background.master05 {
-  background: image-url('lib/img/05_corner_top_right.svg') top right,
-              image-url('lib/img/05_corner_top_left.svg') top left;
+  background: url('../../lib/img/05_corner_top_right.svg') top right,
+              url('../../lib/img/05_corner_top_left.svg') top left;
   background-color: #69B978;
   background-repeat: no-repeat;
 }
